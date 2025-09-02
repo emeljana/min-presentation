@@ -1,0 +1,4 @@
+Dagen började ganska lugnt med introduktion till olika prgramen som VS Code och sedan installation.
+Därefter började vi med Git och Github och det är här det börjar bli förvirrande. 
+Men jag fick ta hjälp av min syster som är duktig på detta och jag förstår hur jag ska hantera Github.
+Senare på kvällen satt jag med övningar lik denna och kan det nu perfekt!
